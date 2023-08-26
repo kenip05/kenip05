@@ -1,7 +1,7 @@
 <h1 align="center">Hola, mi nickname es kenip</h1>
 <h3 align="center">Principiante en el sector del desarollos con muchas ganas</h3>
 
-- 🌱 Aprendo sobre **Python and C**
+- 🌱 Aprendo sobre **Python y C**
 
 <p align="left">
 </p>
