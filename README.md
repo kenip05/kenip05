@@ -1,9 +1,8 @@
-<h1 align="center">Hola, mi apodo es kenip</h1>
+<h1 align="center">Hola, mi nick es kenip</h1>
 <h3 align="center">Principiante en el sector del desarollos con muchas ganas</h3>
 
 - 🌱 Aprendo sobre **Python and C**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
