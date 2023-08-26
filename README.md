@@ -1,7 +1,7 @@
-<h1 align="center">Hola, mi apodo es kenip</h1>
+<h1 align="center">Hola, mi nickname es kenip</h1>
 <h3 align="center">Principiante en el sector del desarollos con muchas ganas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenip05" alt="kenip05" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenip05&label=Profile%20views&color=0e75b6&style=flat" alt="kenip05" /> </p>
 
 - 🌱 Aprendo sobre **Python and C**
 
