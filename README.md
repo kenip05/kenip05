@@ -8,5 +8,5 @@
 <p align="right">
 <a href="https://twitter.com/kenip05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenip05" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCOpARxTN3onN05KLkTigf4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kenip05" height="30" width="40" /></a>
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=kenip05&label=Profile%20views&color=0e75b6&style=flat" alt="kenip05" /> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenip05&label=Profile%20views&color=0e75b6&style=flat" alt="kenip05" /> </p>
 </p>
