@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nickname es kenip</h1>
+<h1 align="center">Hola, mi nick es kenip</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenip05&label=Profile%20views&color=0e75b6&style=flat" alt="kenip05" /> </p>
 
 
