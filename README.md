@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm kenip</h1>
 
-- 🌱 Aprendo sobre **Python y Ciberseguridad Red Team**
+- 🌱 Learning about **Python y Ciberseguridad Red Team**
 
 
 <h3 align="left">Languages and Tools:</h3>
