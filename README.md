@@ -23,6 +23,6 @@
 </p>
 <p align="right">
   <a href="https://ko-fi.com/kenip" target="_blank" rel="noreferrer">
-    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_p_logo_nolabel.png" alt="ko-fi"/>
+    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_p_logo_nolabel.png" alt="ko-fi" width="40" height="40"/>
   </a>
 </p>
