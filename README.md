@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="right">
-  <a href="https://ko-fi.com/C0C2DQKUC" target="_blank" rel="noreferrer">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+  <a href="https://ko-fi.com/kenip" target="_blank" rel="noreferrer">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_p_logo_nolabel.png" alt="ko-fi"/>
   </a>
 </p>
