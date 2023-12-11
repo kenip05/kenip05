@@ -1,12 +1,12 @@
 # Hello, I'm kenip
 
-<p align="center">
-  <img src="https://www.hackthebox.eu/badge/image/686203" alt="Hack The Box Badge"/>
-</p>
-
 ## Skills and Knowledge:
 
-| - 💻 Proficient in Python, Basic Scripting (Batch, Bash) <br> - 🐧 Experienced in Linux and Windows environments <br> - 🌐 Knowledge of networking concepts <br> - 🛡️ Knowledgeable in cybersecurity principles and practices <br> - 🎮 Experience in setting up game servers | <img src="https://www.hackthebox.eu/badge/image/686203" alt="Hack The Box Badge"/> |
+- 💻 Proficient in Python, Basic Scripting (Batch, Bash)
+- 🐧 Experienced in Linux and Windows environments
+- 🌐 Knowledge of networking concepts
+- 🛡️ Knowledgeable in cybersecurity principles and practices
+- 🎮 Experience in setting up game servers
 
 ## Languages and Tools:
 
@@ -21,5 +21,6 @@
   <a href="https://ko-fi.com/kenip" target="_blank" rel="noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
   </a>
+  <img src="https://www.hackthebox.eu/badge/image/686203" alt="Hack The Box Badge"/>
 </p>
 
